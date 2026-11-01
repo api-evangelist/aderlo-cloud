@@ -1,4 +1,4 @@
-# aderlo-cloud
+# Aderlo Cloud
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aderlo-cloud is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aderlo.cloud/
+Aderlo Cloud provides managed WooCommerce and WordPress hosting on its own enterprise‑grade NVMe and ECC hardware in the European Union. Powered by LiteSpeed Enterprise, dedicated PHP workers, and Redis object cache, it offers a real uptime SLA. The company, ADERLO PROSTA SPÓŁKA AKCYJNA, is based in Warsaw, Poland and serves customers across EU, offering secure, high‑performance hosting solutions.
+
+**Areas:** Hosting · WooCommerce · WordPress · EU · Managed · Cloud
+
+## Aderlo Cloud on APIs.io
+
+Everything profiled for Aderlo Cloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aderlo-cloud/](https://apis.io/providers/aderlo-cloud/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Aderlo Cloud Customer API](https://apis.io/apis/aderlo-cloud/aderlo-cloud-customer-api/) — Customer API for managing domains, DNS, email, databases, and other hosting resources.
+- [Aderlo Cloud public API API](https://apis.io/apis/aderlo-cloud/aderlo-cloud-public-api-api/) — Hosted MCP endpoint (JSON-RPC 2.0 over Streamable HTTP), its OAuth 2.1 authorization server, and the public domain availability check. Plans and prices:…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [JsonRpcRequest](https://apis.io/schemas/aderlo-cloud/aderlo-cloud-json-rpc-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aderlo Cloud Context](https://apis.io/jsonld/aderlo-cloud/aderlo-cloud-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Aderlo Cloud API Rules](https://apis.io/rules/aderlo-cloud/aderlo-cloud-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aderlo Cloud Authentication](https://apis.io/security/aderlo-cloud/aderlo-cloud-authentication/)
+- [Aderlo Cloud Domain Security](https://apis.io/security/aderlo-cloud/aderlo-cloud-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aderlo Cloud Scopes](https://apis.io/scopes/aderlo-cloud/aderlo-cloud-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aderlo Cloud Plans Pricing](https://apis.io/plans/aderlo-cloud/aderlo-cloud-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aderlo.cloud/)
+- [Documentation](https://aderlo.cloud/docs/api)
+- [Pricing](https://aderlo.cloud/pricing)
+- [Support](https://aderlo.cloud/support)
+- [Terms of service](https://aderlo.cloud/terms)
+- [Privacy policy](https://aderlo.cloud/privacy)
+- [Status](https://aderlo.cloud/status)
+
+## API Evangelist rating
+
+**Kin Score 56.7** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 46.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 42.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aderlo-cloud/](https://apis.io/providers/aderlo-cloud/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aderlo Cloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aderlo-cloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
