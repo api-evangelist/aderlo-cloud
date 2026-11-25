@@ -132,25 +132,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 56.7** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 51.5** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 46.9 |
-| Contract governance | 79.1 |
-| Operational transparency | 26.3 |
+| Contract governance | 22.0 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 39.8 |
-| Access clarity | 73.2 |
+| Access clarity | 74.5 |
 
-**Agent readiness 42.8** — agent-ready (gated down from agent-native)
+**Agent readiness 41.2** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -159,7 +159,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -168,6 +168,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
 
